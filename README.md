@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularJS Phone Catalog Tutorial Application
 
 ## Overview
@@ -237,3 +238,9 @@ For more information on AngularJS please check out http://angularjs.org/
 [$rouet]: http://docs.angularjs.org/#!angular.service.$route
 [service]: http://docs.angularjs.org/#!angular.service
 [$xhr]: http://docs.angularjs.org/#!angular.service.$xhr
+=======
+alan_shows
+==========
+
+My shows
+>>>>>>> 888dc5c603bda3d6b6a87b7b9af5c10f3c28977a
