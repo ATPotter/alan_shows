@@ -1,10 +1,10 @@
 body
 {
-    margin:     0;
-    font-family:       tahoma, Arial, Helvetica, sans-serif;
-    background: white url(/resources/bodyimages/body.png) no-repeat;
-    background-repeat: repeat-y;
-    color:      #40445c;
+    margin:     	0;
+    font-family:	tahoma, Arial, Helvetica, sans-serif;
+    background: 	white url(/resources/bodyimages/body.png) no-repeat;
+    background-repeat: 	repeat-y;
+    color:      	#40445c;
 }
 
 #container{
@@ -25,8 +25,8 @@ body
 
 /* Page stuff now */
 .page{
-    width: 1024px;
-    padding: 5px 5px 25px 5px;
+    width: 	1024px;
+    padding: 	5px 5px 25px 5px;
     background: white;
     margin:	0px 0px 0px 0px;
 }
@@ -34,14 +34,15 @@ body
 /* Some table stuff now */
 table.showList
 {
-    width: 	100%;
-    border:	2px;
-    margin:	2;
-    padding:	0;
-    border-collapse: collapse;
-    border-spacing: 2px;
-    text-align: left;
-    vertical-align: top;
+    width: 		100%;
+    border:		2px;
+    margin:		2;
+    padding:		0;
+    border-collapse: 	collapse;
+    border-spacing: 	2px;
+    text-align: 	left;
+    vertical-align: 	top;
+    font-size:		small;
 }
 
 tr.even
