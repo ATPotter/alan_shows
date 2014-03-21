@@ -1,0 +1,56 @@
+<div class="container">
+    <div class="row-fluid">
+
+		<h2>Alan's Shows</h2>
+
+		<p>
+		For many years, I have loved to take part in amateur musical shows.  This page contains links
+		to (almost) all of the shows I have been in, each of which contains some information about the
+		show and any part that I played in it.</p>
+
+		<!--Body content-->
+
+	    <table class="showList">
+
+			<tr>
+			  <!-- Active row - header.  Allows user to sort table -->
+			  <th ng-repeat="column in showsTableColumns"
+			      ng-click="orderTable(column)"
+				  style="cursor:pointer"
+				  width="{{column.width}}">
+				  <u>{{column.name}}</u>
+			  </th>
+			</tr>
+
+			<tr ng-repeat="show in shows | orderBy:orderProp:reverse" 
+				ng-class-odd="'odd'"
+				ng-class-even="'even'" >
+
+				<!-- Column showing calculated version of date -->
+				<td ng-bind="convertToDateString(show.dateComputer)"></td>
+				
+				<!-- Column showing show title -->
+				<td>
+				    <a ng-href="#/oneShow/{{show.dateComputer}}/{{show.showTitle}}">
+				    {{show.showTitle}}
+					</a>
+				</td>
+
+<!--				calculateShowLink( show.dateComputer, show.showTitle )">   -->
+				
+				<!-- Column to show club, with a link if available -->
+				<td>
+				  <div ng-switch="show.clubLink.length">
+					<div ng-switch-when="0">{{show.club}}</div>
+					<div ng-switch-default><a href="{{show.clubLink}}">{{show.club}}</a></div>
+				  </div>
+				</td>	
+
+				<!-- Column showing role in show -->
+				<td>{{show.role}}</td>
+			</tr>
+	    </table>
+	  
+    </div>
+	
+</div>

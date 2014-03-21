@@ -1,0 +1,28 @@
+<div class="container-fluid">
+    <div class="row-fluid">
+		<h2>{{showName}}</h2>
+
+		<h2>{{showInfoTable.html}}</h2>
+		
+		<table>
+		    <tr ng-repeat="row in showInfo.infoTable">
+		    	<td class="bodycell-left">{{row.heading}}</td>
+			    <td class="bodycell-right">{{row.value}}</td>
+
+			</tr>
+		</table>
+
+<p>Html file {{topHtmlFile}}</p>
+
+		<!-- Upper part of page data -->
+		<br />
+		<div ng-bind-html="showInfo.topHtml"></div>
+
+
+		<!-- Now we look for the show photos -->
+		<div ng-repeat="photo in showInfo.photographs" class="photoTile">
+			<a href="{{photo.large}}"><img src="{{photo.small}}"></a>
+			<br/>{{photo.title}}
+		</div>
+	</div>
+</div>

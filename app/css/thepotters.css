@@ -1,0 +1,83 @@
+body
+{
+    margin:     0;
+    font-family:       tahoma, Arial, Helvetica, sans-serif;
+    background: white url(/resources/bodyimages/body.png) no-repeat;
+    background-repeat: repeat-y;
+    color:      #40445c;
+}
+
+#container{
+    width:      1024px;
+    margin:     auto auto;
+}
+
+
+.logo a{
+    display:        block;
+    width:          1024px;
+    height:         100px;
+    overflow:       hidden;
+    text-indent:    -9999px;   /* Hide the text */
+    background:     url(/resources/bodyimages/header.png) no-repeat;
+    padding: 0;
+}
+
+/* Page stuff now */
+.page{
+    width: 1024px;
+    padding: 5px 5px 25px 5px;
+    background: white;
+    margin:	0px 0px 0px 0px;
+}
+
+/* Some table stuff now */
+table.showList
+{
+    width: 	100%;
+    border:	2px;
+    margin:	2;
+    padding:	0;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    text-align: left;
+    vertical-align: top;
+}
+
+tr.even
+{
+    background:	#e0e0e0;
+}
+
+.bodycell-right 
+{ 
+    font-family: Tahoma; 
+    font-size: 10pt; 
+    background-color: #FFFFFF; 
+    border-right: 1 outset #808080; 
+    border-bottom: 1 outset #808080;
+}
+
+.bodycell-left 
+{ 
+    text-align: right; 
+    padding:    0 10px 0 0;
+}
+
+.photoTile {
+    -moz-border-radius:     5px;
+    border-radius:          5px;
+    padding:                0.2cm;
+    float:                  left;
+    width:                  300px;
+    height:                 300px;
+    border:                 thin gray ridge;
+    margin:                 0.1cm;
+    text-align:             center;
+    font-family:            Patrick Hand;
+    background:             #e0e0e0;
+}
+
+.photoTile img{
+  display: inline-block;
+}
