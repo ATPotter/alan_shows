@@ -12,18 +12,22 @@
 		</table>
 
 		<!-- Top HTML -->
-		<div ng-bind-html="topHtmlFile"></div>
+		<div ng-bind-html="topHtml"></div>
 
 
 		<!-- Show photos -->
-		<div ng-repeat="photo in showInfo.photographs" class="photoTile">
-			<a href="{{photo.large}}"><img src="{{photo.small}}"></a>
-			<br/>{{photo.title}}
+		<div ng-repeat="photoBlock in showInfo.photographs">
+			<h3>{{photoBlock.heading}}</h3>
+
+			<div ng-repeat="photo in photoBlock.pictures" class="photoTile">
+				<a href="{{photo.large}}"><img src="{{photo.small}}"></a>
+				<br/>{{photo.title}}
+			</div>
 		</div>
 
-
 		<!-- Bottom HTML -->
-		<div ng-bind-html="bottomHtmlFile"></div>
+		<div class="lineBreak"></div>
+		<div ng-bind-html="bottomHtml"></div>
 
 	</div>
 </div>

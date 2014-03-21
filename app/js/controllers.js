@@ -119,6 +119,18 @@ alanShowsControllers.controller
 			{
 		        $scope.showInfo = data;
 			});
+
+			// Try to get the optional Top HTML
+			$http.get($scope.topHtmlFile).success(function(data) 
+			{
+		        $scope.topHtml = data;
+			});
+
+			// Try to get the optional Bottom HTML
+			$http.get($scope.bottomHtmlFile).success(function(data) 
+			{
+		        $scope.bottomHtml = data;
+			});
 		}
 	]
 );

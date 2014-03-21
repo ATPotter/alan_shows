@@ -51,8 +51,8 @@ tr.even
 
 .bodycell-right 
 { 
-    font-family: Tahoma; 
-    font-size: 10pt; 
+    font-family:      Tahoma; 
+    font-size:        small;
     background-color: #FFFFFF; 
     border-right: 1 outset #808080; 
     border-bottom: 1 outset #808080;
@@ -60,6 +60,9 @@ tr.even
 
 .bodycell-left 
 { 
+    font-family:      Tahoma; 
+    font-size:        small;
+    background-color: #FFFFFF; 
     text-align: right; 
     padding:    0 10px 0 0;
 }
@@ -80,4 +83,9 @@ tr.even
 
 .photoTile img{
   display: inline-block;
+}
+
+.lineBreak
+{
+    display: inline;
 }
