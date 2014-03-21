@@ -75,9 +75,6 @@ alanShowsControllers.controller('alanShowListCtrl', ['$scope', '$http',
   }]);
 
   
-	
-  
-  
   
 alanShowsControllers.controller
 (
@@ -88,49 +85,41 @@ alanShowsControllers.controller
 		 
 		function($scope, $routeParams, $http) 
 		{
-			var calculateInfoFile = function( dateAsInt, showTitle ) {
+			var calculateInfoFileBase = function( dateAsInt, showTitle ) {
 				showTitle = showTitle.replace( /\s+/g, '' );
-			    return "json/" + 
-			    		dateAsInt + "-" + 
-			    		showTitle.toLowerCase() +
-				        ".json";
+			    return dateAsInt + "-" + showTitle.toLowerCase();
 			};
 
+			// Calculate the name of the overall JSON information file
+			var calculateInfoFile = function( dateAsInt, showTitle ) {
+			    return "json/" + calculateInfoFileBase( dateAsInt, showTitle ) + ".json";
+			};
+
+			// Calculate the name of the optional top-portion HTML file
+			var calculateTopHtmlFile = function( dateAsInt, showTitle ) {
+			    return "htmlSegments/" + calculateInfoFileBase( dateAsInt, showTitle ) + "_top" + ".html";
+			};
+
+			// Calculate the name of the optional bottom-portion HTML file
+			var calculateBottomHtmlFile = function( dateAsInt, showTitle ) {
+			    return "htmlSegments/" + calculateInfoFileBase( dateAsInt, showTitle ) + "_bottom" + ".html";
+			};
 			
-			
-			$scope.showDate     = $routeParams.showDate;
-			$scope.showName     = $routeParams.showName;
-			$scope.showInfoFile = calculateInfoFile( $scope.showDate, $scope.showName );
+			// Retrieve scope values from parameters
+			$scope.showDate       = $routeParams.showDate;
+			$scope.showName       = $routeParams.showName;
 
-			var topHtmlFile = "";
-			var bottomHtmlFile = "";
-
-
+			// Calculated scope variables
+			$scope.showInfoFile   = calculateInfoFile( $scope.showDate, $scope.showName );
+			$scope.topHtmlFile    = calculateTopHtmlFile( $scope.showDate, $scope.showName );
+			$scope.bottomHtmlFile = calculateBottomHtmlFile( $scope.showDate, $scope.showName );
 
 			// Try to get the show information table file
 			$http.get($scope.showInfoFile).success(function(data) 
 			{
 		        $scope.showInfo = data;
-
-		        // Are there any HTML files specified?
-		        topHtmlFile = data.topHtmlFile;
-		        bottomHtmlFile = data.bottomHtmlFile;
-
-		        $scope.topHtmlFile = topHtmlFile;
-<!--
-
-		        if( "" != topHtmlFile ) {
-		        	$http.get( topHtmlFile ).success(function(topHtmlData )
-		        	{
-		        		$scope.topHtml = topHtmlData;
-		        	});
-		        }
--->
 			});
 		}
-		
-		
-
 	]
 );
   
