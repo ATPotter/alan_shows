@@ -2,8 +2,7 @@
     <div class="row-fluid">
 		<h2>{{showName}}</h2>
 
-		<h2>{{showInfoTable.html}}</h2>
-		
+		<!-- Show information table -->
 		<table>
 		    <tr ng-repeat="row in showInfo.infoTable">
 		    	<td class="bodycell-left">{{row.heading}}</td>
@@ -12,17 +11,19 @@
 			</tr>
 		</table>
 
-<p>Html file {{topHtmlFile}}</p>
-
-		<!-- Upper part of page data -->
-		<br />
-		<div ng-bind-html="showInfo.topHtml"></div>
+		<!-- Top HTML -->
+		<div ng-bind-html="topHtmlFile"></div>
 
 
-		<!-- Now we look for the show photos -->
+		<!-- Show photos -->
 		<div ng-repeat="photo in showInfo.photographs" class="photoTile">
 			<a href="{{photo.large}}"><img src="{{photo.small}}"></a>
 			<br/>{{photo.title}}
 		</div>
+
+
+		<!-- Bottom HTML -->
+		<div ng-bind-html="bottomHtmlFile"></div>
+
 	</div>
 </div>
