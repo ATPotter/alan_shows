@@ -1,0 +1,105 @@
+{
+    "infoTable":
+    [
+        {
+            "heading": "Society",
+            "value":   "The Savoy Club, Glasgow"
+        },
+        {
+            "heading": "Dates",
+            "value":   "February 1986"
+        },
+        {
+            "heading": "Theatre",
+            "value":   "The King's Theatre, Glasgow"
+        },
+        {
+            "heading": "Producer",
+            "value":   "Alan C Jones"
+        },
+        {
+            "heading": "Musical Director",
+            "value":   "Stanley Thomson"
+        },
+        {
+            "heading": "Role",
+            "value":   "Chorus"
+        }
+    ],
+
+    "photographs":
+    [
+        {
+            "heading": "Rehearsal pictures at Woodlands Church, Woodlands Road, Glasgow",
+            "pictures":
+            [
+                {
+                    "small": "http://farm4.static.flickr.com/3295/3032317917_e5a69272df_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3295/3032317917_543563af28_o.jpg", 
+                    "title": "The Lady Angela"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3158/3032318257_e82c240b68_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3158/3032318257_9dca22853c_o.jpg", 
+                    "title": "This is me - wow, I look young!"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3005/3032318103_c19c2c73e3_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3005/3032318103_348d6eee57_o.jpg", 
+                    "title": "The Lady Angela"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3139/3032318011_49a69f0383_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3139/3032318011_295b657401_o.jpg", 
+                    "title": "The ladies enter, with Bunthorne"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3219/3033159522_e2dcef3de1_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3219/3033159522_02d6675672_o.jpg", 
+                    "title": "The three ladies"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3199/3032318521_db25a9bedc_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3199/3032318521_3ae83bd62a_o.jpg", 
+                    "title": "Marion"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3201/3032318455_69b6179466_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3201/3032318455_862e4d4e6f_o.jpg", 
+                    "title": "The three men try to become aesthetic"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3176/3033159668_28a8d0540d_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3176/3033159668_f623dbfd0b_o.jpg", 
+                    "title": "The Lady Saphira"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3248/3033159856_ac1e481830_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3248/3033159856_6d1e974c62_o.jpg", 
+                    "title": "The two poets"
+                }
+            ]
+        },
+        {
+            "heading": "Dress Rehearsal, The King's Theatre, Glasgow",
+            "pictures":
+            [
+                {
+                    "small": "http://farm4.static.flickr.com/3271/3032318743_068d0c9995_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3271/3032318743_46d62b40fd_o.jpg", 
+                    "title": "Bunthorne"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3284/3033160006_4af38408f5_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3284/3033160006_30ab8948b2_o.jpg", 
+                    "title": "Angela and Patience"
+                },
+                {
+                    "small": "http://farm4.static.flickr.com/3024/3032318639_2f8c0bb855_m.jpg", 
+                    "large": "http://farm4.static.flickr.com/3024/3032318639_48493fb397_o.jpg", 
+                    "title": "A Magnet Hung In A Hardware Shop"
+                }
+            ]
+        }
+    ]
+}

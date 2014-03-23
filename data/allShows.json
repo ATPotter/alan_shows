@@ -1,359 +1,359 @@
 [
     {
-		"dateComputer": 198302,
-		"showTitle": "The Pirates Of Penzance and The Zoo",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "198302-thepiratesofpenzanceandthezoo.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 198402,
-		"showTitle": "Princess Ida",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1984-princessida.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 198502,
-		"showTitle": "The Gondoliers",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1985-thegondoliers.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 198602,
-		"showTitle": "Patience",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1986-patience.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 198702,
-		"showTitle": "Iolanthe",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1987-iolanthe.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 198802,
-		"showTitle": "The Yeomen Of The Guard",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1988-yeomen.json",
-		"role": "Second Yeoman"
-	},
-	{
-		"dateComputer": 198902,
-		"showTitle": "Trial By Jury and HMS Pinafore",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1989-trial_and_pinafore.json",
-		"role": "Foreman Of The Jury"
-	},
-	{
-		"dateComputer": 198910,
-		"showTitle": "The Most Happy Fella",
-		"club": "The Minerva Club",
-		"clubLink": "http://www.theminervaclub.com",
-		"details": "1989-most-happy-fella.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 199002,
-		"showTitle": "The Mikado",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1990-mikado.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 199102,
-		"showTitle": "Ruddigore",
-		"club": "The Savoy Club, Glasgow",
-		"clubLink": "",
-		"details": "1991-ruddigore.json",
-		"role": "Chorus"
-	},
-	{
-		"dateComputer": 199110,
-		"showTitle":    "Carousel",
-		"club":         "The Minerva Club",
-		"clubLink":     "http://www.theminervaclub.com",
-		"details":      "199110-carousel.json",
-		"role":         "Chorus / Dancer"
+        "dateComputer": 198302,
+        "showTitle": "The Pirates Of Penzance and The Zoo",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "198302-thepiratesofpenzanceandthezoo.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199202,
-		"showTitle":    "Princess Ida",
-		"club":         "Dunfermline Gilbert and Sullivan Society",
-		"clubLink":     "http://www.dgass.org.uk",
-		"details":      "199202-princessida.json",
-		"role":         "Chorus"
+    {
+        "dateComputer": 198402,
+        "showTitle": "Princess Ida",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1984-princessida.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199304,
-		"showTitle":    "The Pajama Game",
-		"club":         "Lochgelly and District AMA",
-		"clubLink":     "http://www.ladama.co.uk",
-		"details":      "199304-pajamagame.json",
-		"role":         "Chorus"
+    {
+        "dateComputer": 198502,
+        "showTitle": "The Gondoliers",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1985-thegondoliers.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199403,
-		"showTitle":    "Guys And Dolls",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "199403-guysadndolls.json",
-		"role":         "Rusty Charlie"
+    {
+        "dateComputer": 198602,
+        "showTitle": "Patience",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1986-patience.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199411,
-		"showTitle":    "Call Me Madam",
-		"club":         "Forth Dimension (S. Queensferry)",
-		"clubLink":     "http://www.forthdimensionmusicals.com",
-		"details":      "199411-callmemamdam.json",
-		"role":         "Senator"
+    {
+        "dateComputer": 198703,
+        "showTitle": "Iolanthe",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1987-iolanthe.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199503,
-		"showTitle":    "Bitter Sweet",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "199503-bittersweet.json",
-		"role":         "Suitor"
+    {
+        "dateComputer": 198802,
+        "showTitle": "The Yeomen Of The Guard",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1988-yeomen.json",
+        "role": "Second Yeoman"
     },
-	{
-		"dateComputer": 199505,
-		"showTitle":    "42nd Street",
-		"club":         "Alloa Festival Cast",
-		"clubLink":     "",
-		"details":      "199505-42ndstreet",
-		"role":         "Chorus Dancer"
+    {
+        "dateComputer": 198903,
+        "showTitle": "Trial By Jury and HMS Pinafore",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1989-trial_and_pinafore.json",
+        "role": "Foreman Of The Jury"
     },
-	{
-		"dateComputer": 199511,
-		"showTitle":    "Half A Sixpence",
-		"club":         "Forth Dimension (S. Queensferry)",
-		"clubLink":     "http://www.forthdimensionmusicals.com",
-		"details":      "199511-halfasixpence.json",
-		"role":         "Pearce"
+    {
+        "dateComputer": 198911,
+        "showTitle": "The Most Happy Fella",
+        "club": "The Minerva Club",
+        "clubLink": "http://www.theminervaclub.com",
+        "details": "1989-most-happy-fella.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199602,
-		"showTitle":    "Guys And Dolls",
-		"club":         "Bo'ness AOS",
-		"clubLink":     "http://www.bonessopera.org.uk",
-		"details":      "199602-guysanddolls.json",
-		"role":         "Chorus"
+    {
+        "dateComputer": 199002,
+        "showTitle": "The Mikado",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1990-mikado.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199611,
-		"showTitle":    "THe Pirates Of Penzance",
-		"club":         "Forth Dimension (S. Queensferry)",
-		"clubLink":     "http://www.forthdimensionmusicals.com",
-		"details":      "199611-pirates.json",
-		"role":         "Pirate King"
+    {
+        "dateComputer": 199103,
+        "showTitle": "Ruddigore",
+        "club": "The Savoy Club, Glasgow",
+        "clubLink": "",
+        "details": "1991-ruddigore.json",
+        "role": "Chorus"
     },
-	{
-		"dateComputer": 199704,
-		"showTitle":    "Carousel",
-		"club":         "SMYCMS, Edinburgh",
-		"clubLink":     "http://smycms.com",
-		"details":      "199704-carousel.json",
-		"role":         "Chorus"
+    {
+        "dateComputer": 199110,
+        "showTitle":    "Carousel",
+        "club":         "The Minerva Club",
+        "clubLink":     "http://www.theminervaclub.com",
+        "details":      "199110-carousel.json",
+        "role":         "Chorus / Dancer"
     },
-	{
-		"dateComputer": 199711,
-		"showTitle":    "Calamity Jane",
-		"club":         "Forth Dimension (S. Queensferry)",
-		"clubLink":     "http://www.forthdimensionmusicals.com",
-		"details":      "199711-calamityjane.json",
-		"role":         "Danny Gilmartin"
+    {
+        "dateComputer": 199203,
+        "showTitle":    "Princess Ida",
+        "club":         "Dunfermline Gilbert and Sullivan Society",
+        "clubLink":     "http://www.dgass.org.uk",
+        "details":      "199202-princessida.json",
+        "role":         "Chorus"
     },
-	{
-		"dateComputer": 199806,
-		"showTitle":    "Cabaret",
-		"club":         "Allegro, Edinburgh",
-		"clubLink":     "http://www.allegromusical.co.uk",
-		"details":      "199806-cabaret.json",
-		"role":         "Chorus"
+    {
+        "dateComputer": 199304,
+        "showTitle":    "The Pajama Game",
+        "club":         "Lochgelly and District AMA",
+        "clubLink":     "http://www.ladama.co.uk",
+        "details":      "199304-pajamagame.json",
+        "role":         "Chorus"
     },
-	{
-		"dateComputer": 199811,
-		"showTitle":    "Hello Dolly",
-		"club":         "Forth Dimension (S. Queensferry)",
-		"clubLink":     "http://www.forthdimensionmusicals.com",
-		"details":      "199811-hellodolly.json",
-		"role":         "Ambrose"
+    {
+        "dateComputer": 199403,
+        "showTitle":    "Guys And Dolls",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "199403-guysadndolls.json",
+        "role":         "Rusty Charlie"
     },
-	{
-		"dateComputer": 199901,
-		"showTitle":    "Chess",
-		"club":         "Tempo, Edinburgh",
-		"clubLink":     "http://www.tempo.org.uk",
-		"details":      "199901-chess.json",
-		"role":         "Chorus / Dancer"
+    {
+        "dateComputer": 199411,
+        "showTitle":    "Call Me Madam",
+        "club":         "Forth Dimension (S. Queensferry)",
+        "clubLink":     "http://www.forthdimensionmusicals.com",
+        "details":      "199411-callmemamdam.json",
+        "role":         "Senator"
     },
-	{
-		"dateComputer": 200003,
-		"showTitle":    "Kiss Me Kate",
-		"club":         "Bathgate Operatic Society",
-		"clubLink":     "",
-		"details":      "200003-kissmekate.json",
-		"role":         "Paul"
+    {
+        "dateComputer": 199503,
+        "showTitle":    "Bitter Sweet",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "199503-bittersweet.json",
+        "role":         "Suitor"
     },
-	{
-		"dateComputer": 200102,
-		"showTitle":    "Kiss Me Kate",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "200102-kissmekate.json",
-		"role":         "Paul"
+    {
+        "dateComputer": 199505,
+        "showTitle":    "42nd Street",
+        "club":         "Alloa Festival Cast",
+        "clubLink":     "",
+        "details":      "199505-42ndstreet",
+        "role":         "Chorus Dancer"
     },
-	{
-		"dateComputer": 200202,
-		"showTitle":    "Fiddler On The Roof",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "200202-fiddlerontheroof.json",
-		"role":         "Fyedka"
+    {
+        "dateComputer": 199511,
+        "showTitle":    "Half A Sixpence",
+        "club":         "Forth Dimension (S. Queensferry)",
+        "clubLink":     "http://www.forthdimensionmusicals.com",
+        "details":      "199511-halfasixpence.json",
+        "role":         "Pearce"
     },
-	{
-		"dateComputer": 200303,
-		"showTitle":    "Half A Sixpence",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "200303-halfasixpence.json",
-		"role":         "Sid"
+    {
+        "dateComputer": 199602,
+        "showTitle":    "Guys And Dolls",
+        "club":         "Bo'ness AOS",
+        "clubLink":     "http://www.bonessopera.org.uk",
+        "details":      "199602-guysanddolls.json",
+        "role":         "Chorus"
     },
-	{
-		"dateComputer": 200402,
-		"showTitle":    "Annie",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "200402-annie.json",
-		"role":         "Fred, Fred McCracken, Star To Be, Frances Perkins"
+    {
+        "dateComputer": 199611,
+        "showTitle":    "THe Pirates Of Penzance",
+        "club":         "Forth Dimension (S. Queensferry)",
+        "clubLink":     "http://www.forthdimensionmusicals.com",
+        "details":      "199611-pirates.json",
+        "role":         "Pirate King"
     },
-	{
-		"dateComputer": 200504,
-		"showTitle":    "Calamity Jane",
-		"club":         "Falkirk AOS",
-		"clubLink":     "",
-		"details":      "200504-calamityjane.json",
-		"role":         "Danny Gilmartin"
+    {
+        "dateComputer": 199704,
+        "showTitle":    "Carousel",
+        "club":         "SMYCMS, Edinburgh",
+        "clubLink":     "http://smycms.com",
+        "details":      "199704-carousel.json",
+        "role":         "Chorus"
     },
-	{
-		"dateComputer": 200509,
-		"showTitle":    "The King And I",
-		"club":         "Pain And Panic, Stirling",
-		"clubLink":     "",
-		"details":      "200509-thekingandi.json",
-		"role":         "The King Of Siam"
+    {
+        "dateComputer": 199711,
+        "showTitle":    "Calamity Jane",
+        "club":         "Forth Dimension (S. Queensferry)",
+        "clubLink":     "http://www.forthdimensionmusicals.com",
+        "details":      "199711-calamityjane.json",
+        "role":         "Danny Gilmartin"
     },
-	{
-		"dateComputer": 200603,
-		"showTitle":    "Kiss Me Kate",
-		"club":         "Larbert AOS",
-		"clubLink":     "",
-		"details":      "200603-kissmekate.json",
-		"role":         "Paul"
+    {
+        "dateComputer": 199806,
+        "showTitle":    "Cabaret",
+        "club":         "Allegro, Edinburgh",
+        "clubLink":     "http://www.allegromusical.co.uk",
+        "details":      "199806-cabaret.json",
+        "role":         "Chorus"
     },
-	{
-		"dateComputer": 200702,
-		"showTitle":    "The Gondoliers",
-		"club":         "Dunfermline Gilbert and Sullivan Society",
-		"clubLink":     "http://www.dgass.org.uk",
-		"details":      "200702-thegondoliers.json",
-		"role":         "Luiz"
+    {
+        "dateComputer": 199811,
+        "showTitle":    "Hello Dolly",
+        "club":         "Forth Dimension (S. Queensferry)",
+        "clubLink":     "http://www.forthdimensionmusicals.com",
+        "details":      "199811-hellodolly.json",
+        "role":         "Ambrose"
     },
-	{
-		"dateComputer": 200803,
-		"showTitle":    "Musical Masquerade",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "200803-musicalmasquerade.json",
-		"role":         "Singer"
+    {
+        "dateComputer": 199901,
+        "showTitle":    "Chess",
+        "club":         "Tempo, Edinburgh",
+        "clubLink":     "http://www.tempo.org.uk",
+        "details":      "199901-chess.json",
+        "role":         "Chorus / Dancer"
     },
-	{
-		"dateComputer": 200805,
-		"showTitle":    "The Hot Mikado",
-		"club":         "The Livingston Players",
-		"clubLink":     "http://www.livingstonplayers.co.uk",
-		"details":      "200805-thehotmikado.json",
-		"role":         "Pish Tush"
+    {
+        "dateComputer": 200003,
+        "showTitle":    "Kiss Me Kate",
+        "club":         "Bathgate Operatic Society",
+        "clubLink":     "",
+        "details":      "200003-kissmekate.json",
+        "role":         "Paul"
     },
-	{
-		"dateComputer": 200903,
-		"showTitle":    "The Boy Friend",
-		"club":         "SABOS, Stirling",
-		"clubLink":     "http://www.sabos.co.uk",
-		"details":      "200903-theboyfriend.json",
-		"role":         "Bobby"
+    {
+        "dateComputer": 200102,
+        "showTitle":    "Kiss Me Kate",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "200102-kissmekate.json",
+        "role":         "Paul"
     },
-	{
-		"dateComputer": 200912,
-		"showTitle":    "Cinderella",
-		"club":         "The Dunblane Centre",
-		"clubLink":     "http://www.dunblanecentre.co.uk",
-		"details":      "200912-cinderella.json",
-		"role":         "Baron Hardup"
+    {
+        "dateComputer": 200202,
+        "showTitle":    "Fiddler On The Roof",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "200202-fiddlerontheroof.json",
+        "role":         "Fyedka"
     },
-	{
-		"dateComputer": 201004,
-		"showTitle":    "Jesus Christ Superstar",
-		"club":         "Limelight Productions, Dunfermline",
-		"clubLink":     "http://www.limelightproductions.co",
-		"details":      "201004-jesuschristsuperstar.json",
-		"role":         "Roman Guard"
+    {
+        "dateComputer": 200303,
+        "showTitle":    "Half A Sixpence",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "200303-halfasixpence.json",
+        "role":         "Sid"
     },
-	{
-		"dateComputer": 201008,
-		"showTitle":    "Annie",
-		"club":         "The Dunblane Centre",
-		"clubLink":     "http://www.dunblanecentre.co.uk",
-		"details":      "201008-annie.json",
-		"role":         "Mr 'Daddy' Warbucks"
+    {
+        "dateComputer": 200402,
+        "showTitle":    "Annie",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "200402-annie.json",
+        "role":         "Fred, Fred McCracken, Star To Be, Frances Perkins"
     },
-	{
-		"dateComputer": 201010,
-		"showTitle":    "Beauty And The Beast",
-		"club":         "Limelight Productions, Dunfermline",
-		"clubLink":     "http://www.limelightproductions.co",
-		"details":      "201010-beautyandthebeast.json",
-		"role":         "Chorus / Dancer"
+    {
+        "dateComputer": 200504,
+        "showTitle":    "Calamity Jane",
+        "club":         "Falkirk AOS",
+        "clubLink":     "",
+        "details":      "200504-calamityjane.json",
+        "role":         "Danny Gilmartin"
     },
-	{
-		"dateComputer": 201012,
-		"showTitle":    "Jack And The Beanstalk",
-		"club":         "The Dunblane Centre",
-		"clubLink":     "http://www.dunblanecentre.co.uk",
-		"details":      "201012-beautyandthebeast.json",
-		"role":         "Prime Minister"
+    {
+        "dateComputer": 200509,
+        "showTitle":    "The King And I",
+        "club":         "Pain And Panic, Stirling",
+        "clubLink":     "",
+        "details":      "200509-thekingandi.json",
+        "role":         "The King Of Siam"
     },
-	{
-		"dateComputer": 201110,
-		"showTitle":    "Chess",
-		"club":         "Limelight Productions, Dunfermline",
-		"clubLink":     "http://www.limelightproductions.co",
-		"details":      "201111-chess.json",
-		"role":         "Chorus / Dancer"
+    {
+        "dateComputer": 200603,
+        "showTitle":    "Kiss Me Kate",
+        "club":         "Larbert AOS",
+        "clubLink":     "",
+        "details":      "200603-kissmekate.json",
+        "role":         "Paul"
     },
-	{
-		"dateComputer": 201112,
-		"showTitle":    "Babes In The Wood",
-		"club":         "The Dunblane Centre",
-		"clubLink":     "http://www.dunblanecentre.co.uk",
-		"details":      "201112-babesinthewood.json",
-		"role":         "Friar Tuck"
+    {
+        "dateComputer": 200702,
+        "showTitle":    "The Gondoliers",
+        "club":         "Dunfermline Gilbert and Sullivan Society",
+        "clubLink":     "http://www.dgass.org.uk",
+        "details":      "200702-thegondoliers.json",
+        "role":         "Luiz"
+    },
+    {
+        "dateComputer": 200803,
+        "showTitle":    "Musical Masquerade",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "200803-musicalmasquerade.json",
+        "role":         "Singer"
+    },
+    {
+        "dateComputer": 200805,
+        "showTitle":    "The Hot Mikado",
+        "club":         "The Livingston Players",
+        "clubLink":     "http://www.livingstonplayers.co.uk",
+        "details":      "200805-thehotmikado.json",
+        "role":         "Pish Tush"
+    },
+    {
+        "dateComputer": 200903,
+        "showTitle":    "The Boy Friend",
+        "club":         "SABOS, Stirling",
+        "clubLink":     "http://www.sabos.co.uk",
+        "details":      "200903-theboyfriend.json",
+        "role":         "Bobby"
+    },
+    {
+        "dateComputer": 200912,
+        "showTitle":    "Cinderella",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "200912-cinderella.json",
+        "role":         "Baron Hardup"
+    },
+    {
+        "dateComputer": 201004,
+        "showTitle":    "Jesus Christ Superstar",
+        "club":         "Limelight Productions, Dunfermline",
+        "clubLink":     "http://www.limelightproductions.co",
+        "details":      "201004-jesuschristsuperstar.json",
+        "role":         "Roman Guard"
+    },
+    {
+        "dateComputer": 201008,
+        "showTitle":    "Annie",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201008-annie.json",
+        "role":         "Mr 'Daddy' Warbucks"
+    },
+    {
+        "dateComputer": 201010,
+        "showTitle":    "Beauty And The Beast",
+        "club":         "Limelight Productions, Dunfermline",
+        "clubLink":     "http://www.limelightproductions.co",
+        "details":      "201010-beautyandthebeast.json",
+        "role":         "Chorus / Dancer"
+    },
+    {
+        "dateComputer": 201012,
+        "showTitle":    "Jack And The Beanstalk",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201012-beautyandthebeast.json",
+        "role":         "Prime Minister"
+    },
+    {
+        "dateComputer": 201110,
+        "showTitle":    "Chess",
+        "club":         "Limelight Productions, Dunfermline",
+        "clubLink":     "http://www.limelightproductions.co",
+        "details":      "201111-chess.json",
+        "role":         "Chorus / Dancer"
+    },
+    {
+        "dateComputer": 201112,
+        "showTitle":    "Babes In The Wood",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201112-babesinthewood.json",
+        "role":         "Friar Tuck"
     }
-	
-	
-	
-	
-	
+    
+    
+    
+    
+    
 ]

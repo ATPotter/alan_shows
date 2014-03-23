@@ -6,7 +6,7 @@
 		<table>
 		    <tr ng-repeat="row in showInfo.infoTable">
 		    	<td class="bodycell-left">{{row.heading}}</td>
-			    <td class="bodycell-right">{{row.value}}</td>
+			    <td class="bodycell-right" ng-bind-html="row.value"></td>
 
 			</tr>
 		</table>
