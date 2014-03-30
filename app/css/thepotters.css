@@ -1,10 +1,11 @@
 body
 {
-    margin:         0;
-    font-family:    tahoma, Arial, Helvetica, sans-serif;
-    background:     white url(/resources/bodyimages/body.png) no-repeat;
+    margin:             0;
+    font-family:        tahoma, Arial, Helvetica, sans-serif;
+    font-size:          small;
+    background:         white url(/resources/bodyimages/body.png) no-repeat;
     background-repeat:  repeat-y;
-    color:          #40445c;
+    color:              #40445c;
 }
 
 #container{
@@ -32,17 +33,17 @@ body
 }
 
 /* Some table stuff now */
-table.showList
+.showList
 {
-    width:      100%;
-    border:     2px;
-    margin:     2;
-    padding:        0;
+    width:              100%;
+    border:             2px;
+    margin:             2;
+    padding:            0;
     border-collapse:    collapse;
     border-spacing:     2px;
-    text-align:     left;
+    text-align:         left;
     vertical-align:     top;
-    font-size:      small;
+    font-size:          small;
 }
 
 tr.even
@@ -50,23 +51,35 @@ tr.even
     background: #e0e0e0;
 }
 
-.bodycell-right 
-{ 
-    font-family:      Tahoma; 
-    font-size:        small;
-    background-color: #FFFFFF; 
-    border-right: 1 outset #808080; 
-    border-bottom: 1 outset #808080;
+
+
+/*
+ * Information table for single show information
+ */
+.oneShowInfoTable
+{
+    font-size:          large;
+    border:             0;
+    border-spacing:     0;
 }
 
-.bodycell-left 
+.oneShowInfoLeft
 { 
-    font-family:      Tahoma; 
-    font-size:        small;
-    background-color: #FFFFFF; 
-    text-align: right; 
-    padding:    0 10px 0 0;
+    text-align:         right; 
 }
+
+.oneShowInfoCentre
+{
+}
+
+.oneShowInfoRight
+{ 
+}
+
+
+
+
+
 
 .photoTile {
     -moz-border-radius:     5px;
@@ -82,13 +95,15 @@ tr.even
     background:             #e0e0e0;
 }
 
-.photoTile img{
+
+.photoTile img
+{
   display: inline-block;
 }
 
-.lineBreak
+.photoTileTableEntry
 {
-    display: inline;
+    margin-top: 40px;
 }
 
 .quote

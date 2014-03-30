@@ -1,0 +1,53 @@
+{
+    "infoTable":
+    [
+        {
+            "heading": "Society",
+            "value":   "Clackmannan District Council Festival Players"
+        },
+        {
+            "heading": "Dates",
+            "value":   "24-27 May 1995"
+        },
+        {
+            "heading": "Theatre",
+            "value":   "<a href='http://www.macrobert.stir.ac.uk/MACROBERT/'>macrobert, Stirling</a>"
+        },
+        {
+            "heading": "Director",
+            "value":   "Lawrence Gibb"
+        },
+        {
+            "heading": "Musical Director",
+            "value":   "Bill Jarvis"
+        },
+        {
+            "heading": "Choreographer",
+            "value":   "Tracy Gorman"
+        },
+        {
+            "heading": "Role",
+            "value":   "Chorus"
+        }
+    ],
+    
+    "photographs":
+    [
+        {
+            "heading": "macrobert, Stirling",
+            "pictures":
+            [
+                {
+                    "small":  "http://farm2.static.flickr.com/1343/3174521997_4c1f62cf23_m.jpg", 
+                    "large":  "http://farm2.static.flickr.com/1343/3174521997_bdb27ce6b5_o.jpg", 
+                    "title":  "42nd Street 1995: Lawrence and Rosemary discuss something with Amanda (playing Peggy Sawyer)"
+                },
+                {
+                    "small":  "http://farm4.static.flickr.com/3106/3174522187_25541808c2_m.jpg", 
+                    "large":  "http://farm4.static.flickr.com/3106/3174522187_5e0ed3d519_o.jpg", 
+                    "title":  "42nd Street 1995: Gary, Heather (standing), Jane and Denzil enjoy lunch during a break in rehearsals"
+                }
+            ]
+        }
+    ]
+}

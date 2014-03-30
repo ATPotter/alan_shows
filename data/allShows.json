@@ -120,7 +120,7 @@
         "role":         "Senator"
     },
     {
-        "dateComputer": 199503,
+        "dateComputer": 199502,
         "showTitle":    "Bitter Sweet",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
@@ -153,7 +153,7 @@
     },
     {
         "dateComputer": 199611,
-        "showTitle":    "THe Pirates Of Penzance",
+        "showTitle":    "The Pirates Of Penzance",
         "club":         "Forth Dimension (S. Queensferry)",
         "clubLink":     "http://www.forthdimensionmusicals.com",
         "details":      "199611-pirates.json",
@@ -224,7 +224,7 @@
         "role":         "Fyedka"
     },
     {
-        "dateComputer": 200303,
+        "dateComputer": 200302,
         "showTitle":    "Half A Sixpence",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
@@ -350,6 +350,54 @@
         "clubLink":     "http://www.dunblanecentre.co.uk",
         "details":      "201112-babesinthewood.json",
         "role":         "Friar Tuck"
+    },
+    {
+        "dateComputer": 201210,
+        "showTitle":    "The Sound of Music",
+        "club":         "Limelight Productions, Dunfermline",
+        "clubLink":     "http://www.limelightproductions.co",
+        "details":      "201210-thesoundofmusic.json",
+        "role":         "Nazi Guard"
+    },
+    {
+        "dateComputer": 201212,
+        "showTitle":    "Dick Whittington",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201112-babesinthewood.json",
+        "role":         "Pub Landlord"
+    },
+    {
+        "dateComputer": 201302,
+        "showTitle":    "Fame",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201112-babesinthewood.json",
+        "role":         "Teacher"
+    },
+    {
+        "dateComputer": 201305,
+        "showTitle":    "Into The Woods",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201112-babesinthewood.json",
+        "role":         "Mysterious Man / Steward"
+    },
+    {
+        "dateComputer": 201312,
+        "showTitle":    "Sleeping Beauty",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201112-babesinthewood.json",
+        "role":         "Mysterious Man / Steward"
+    },
+    {
+        "dateComputer": 201403,
+        "showTitle":    "Show Of Shows",
+        "club":         "The Dunblane Centre",
+        "clubLink":     "http://www.dunblanecentre.co.uk",
+        "details":      "201112-babesinthewood.json",
+        "role":         "None"
     }
     
     
