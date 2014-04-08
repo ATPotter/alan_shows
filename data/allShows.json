@@ -4,7 +4,6 @@
         "showTitle": "The Pirates Of Penzance and The Zoo",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "198302-thepiratesofpenzanceandthezoo.json",
         "role": "Chorus"
     },
     {
@@ -12,7 +11,6 @@
         "showTitle": "Princess Ida",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1984-princessida.json",
         "role": "Chorus"
     },
     {
@@ -20,7 +18,6 @@
         "showTitle": "The Gondoliers",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1985-thegondoliers.json",
         "role": "Chorus"
     },
     {
@@ -28,7 +25,6 @@
         "showTitle": "Patience",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1986-patience.json",
         "role": "Chorus"
     },
     {
@@ -36,7 +32,6 @@
         "showTitle": "Iolanthe",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1987-iolanthe.json",
         "role": "Chorus"
     },
     {
@@ -44,7 +39,6 @@
         "showTitle": "The Yeomen Of The Guard",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1988-yeomen.json",
         "role": "Second Yeoman"
     },
     {
@@ -52,7 +46,6 @@
         "showTitle": "Trial By Jury and HMS Pinafore",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1989-trial_and_pinafore.json",
         "role": "Foreman Of The Jury"
     },
     {
@@ -60,7 +53,6 @@
         "showTitle": "The Most Happy Fella",
         "club": "The Minerva Club",
         "clubLink": "http://www.theminervaclub.com",
-        "details": "1989-most-happy-fella.json",
         "role": "Chorus"
     },
     {
@@ -68,7 +60,6 @@
         "showTitle": "The Mikado",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1990-mikado.json",
         "role": "Chorus"
     },
     {
@@ -76,7 +67,6 @@
         "showTitle": "Ruddigore",
         "club": "The Savoy Club, Glasgow",
         "clubLink": "",
-        "details": "1991-ruddigore.json",
         "role": "Chorus"
     },
     {
@@ -84,7 +74,6 @@
         "showTitle":    "Carousel",
         "club":         "The Minerva Club",
         "clubLink":     "http://www.theminervaclub.com",
-        "details":      "199110-carousel.json",
         "role":         "Chorus / Dancer"
     },
     {
@@ -92,7 +81,6 @@
         "showTitle":    "Princess Ida",
         "club":         "Dunfermline Gilbert and Sullivan Society",
         "clubLink":     "http://www.dgass.org.uk",
-        "details":      "199202-princessida.json",
         "role":         "Chorus"
     },
     {
@@ -100,7 +88,6 @@
         "showTitle":    "The Pajama Game",
         "club":         "Lochgelly and District AMA",
         "clubLink":     "http://www.ladama.co.uk",
-        "details":      "199304-pajamagame.json",
         "role":         "Chorus"
     },
     {
@@ -108,7 +95,6 @@
         "showTitle":    "Guys And Dolls",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "199403-guysadndolls.json",
         "role":         "Rusty Charlie"
     },
     {
@@ -116,7 +102,6 @@
         "showTitle":    "Call Me Madam",
         "club":         "Forth Dimension (S. Queensferry)",
         "clubLink":     "http://www.forthdimensionmusicals.com",
-        "details":      "199411-callmemamdam.json",
         "role":         "Senator"
     },
     {
@@ -124,7 +109,6 @@
         "showTitle":    "Bitter Sweet",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "199503-bittersweet.json",
         "role":         "Suitor"
     },
     {
@@ -132,7 +116,6 @@
         "showTitle":    "42nd Street",
         "club":         "Alloa Festival Cast",
         "clubLink":     "",
-        "details":      "199505-42ndstreet",
         "role":         "Chorus Dancer"
     },
     {
@@ -140,7 +123,6 @@
         "showTitle":    "Half A Sixpence",
         "club":         "Forth Dimension (S. Queensferry)",
         "clubLink":     "http://www.forthdimensionmusicals.com",
-        "details":      "199511-halfasixpence.json",
         "role":         "Pearce"
     },
     {
@@ -148,7 +130,6 @@
         "showTitle":    "Guys And Dolls",
         "club":         "Bo'ness AOS",
         "clubLink":     "http://www.bonessopera.org.uk",
-        "details":      "199602-guysanddolls.json",
         "role":         "Chorus"
     },
     {
@@ -156,7 +137,6 @@
         "showTitle":    "The Pirates Of Penzance",
         "club":         "Forth Dimension (S. Queensferry)",
         "clubLink":     "http://www.forthdimensionmusicals.com",
-        "details":      "199611-pirates.json",
         "role":         "Pirate King"
     },
     {
@@ -164,7 +144,6 @@
         "showTitle":    "Carousel",
         "club":         "SMYCMS, Edinburgh",
         "clubLink":     "http://smycms.com",
-        "details":      "199704-carousel.json",
         "role":         "Chorus"
     },
     {
@@ -172,7 +151,6 @@
         "showTitle":    "Calamity Jane",
         "club":         "Forth Dimension (S. Queensferry)",
         "clubLink":     "http://www.forthdimensionmusicals.com",
-        "details":      "199711-calamityjane.json",
         "role":         "Danny Gilmartin"
     },
     {
@@ -180,7 +158,6 @@
         "showTitle":    "Cabaret",
         "club":         "Allegro, Edinburgh",
         "clubLink":     "http://www.allegromusical.co.uk",
-        "details":      "199806-cabaret.json",
         "role":         "Chorus"
     },
     {
@@ -188,7 +165,6 @@
         "showTitle":    "Hello Dolly",
         "club":         "Forth Dimension (S. Queensferry)",
         "clubLink":     "http://www.forthdimensionmusicals.com",
-        "details":      "199811-hellodolly.json",
         "role":         "Ambrose"
     },
     {
@@ -196,7 +172,6 @@
         "showTitle":    "Chess",
         "club":         "Tempo, Edinburgh",
         "clubLink":     "http://www.tempo.org.uk",
-        "details":      "199901-chess.json",
         "role":         "Chorus / Dancer"
     },
     {
@@ -204,7 +179,6 @@
         "showTitle":    "Kiss Me Kate",
         "club":         "Bathgate Operatic Society",
         "clubLink":     "",
-        "details":      "200003-kissmekate.json",
         "role":         "Paul"
     },
     {
@@ -212,7 +186,6 @@
         "showTitle":    "Kiss Me Kate",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "200102-kissmekate.json",
         "role":         "Paul"
     },
     {
@@ -220,7 +193,6 @@
         "showTitle":    "Fiddler On The Roof",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "200202-fiddlerontheroof.json",
         "role":         "Fyedka"
     },
     {
@@ -228,7 +200,6 @@
         "showTitle":    "Half A Sixpence",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "200303-halfasixpence.json",
         "role":         "Sid"
     },
     {
@@ -236,7 +207,6 @@
         "showTitle":    "Annie",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "200402-annie.json",
         "role":         "Fred, Fred McCracken, Star To Be, Frances Perkins"
     },
     {
@@ -244,7 +214,6 @@
         "showTitle":    "Calamity Jane",
         "club":         "Falkirk AOS",
         "clubLink":     "",
-        "details":      "200504-calamityjane.json",
         "role":         "Danny Gilmartin"
     },
     {
@@ -252,7 +221,6 @@
         "showTitle":    "The King And I",
         "club":         "Pain And Panic, Stirling",
         "clubLink":     "",
-        "details":      "200509-thekingandi.json",
         "role":         "The King Of Siam"
     },
     {
@@ -260,7 +228,6 @@
         "showTitle":    "Kiss Me Kate",
         "club":         "Larbert AOS",
         "clubLink":     "",
-        "details":      "200603-kissmekate.json",
         "role":         "Paul"
     },
     {
@@ -268,7 +235,6 @@
         "showTitle":    "The Gondoliers",
         "club":         "Dunfermline Gilbert and Sullivan Society",
         "clubLink":     "http://www.dgass.org.uk",
-        "details":      "200702-thegondoliers.json",
         "role":         "Luiz"
     },
     {
@@ -276,7 +242,6 @@
         "showTitle":    "Musical Masquerade",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "200803-musicalmasquerade.json",
         "role":         "Singer"
     },
     {
@@ -284,7 +249,6 @@
         "showTitle":    "The Hot Mikado",
         "club":         "The Livingston Players",
         "clubLink":     "http://www.livingstonplayers.co.uk",
-        "details":      "200805-thehotmikado.json",
         "role":         "Pish Tush"
     },
     {
@@ -292,7 +256,6 @@
         "showTitle":    "The Boy Friend",
         "club":         "SABOS, Stirling",
         "clubLink":     "http://www.sabos.co.uk",
-        "details":      "200903-theboyfriend.json",
         "role":         "Bobby"
     },
     {
@@ -300,7 +263,6 @@
         "showTitle":    "Cinderella",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "200912-cinderella.json",
         "role":         "Baron Hardup"
     },
     {
@@ -308,7 +270,6 @@
         "showTitle":    "Jesus Christ Superstar",
         "club":         "Limelight Productions, Dunfermline",
         "clubLink":     "http://www.limelightproductions.co",
-        "details":      "201004-jesuschristsuperstar.json",
         "role":         "Roman Guard"
     },
     {
@@ -316,7 +277,6 @@
         "showTitle":    "Annie",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201008-annie.json",
         "role":         "Mr 'Daddy' Warbucks"
     },
     {
@@ -324,7 +284,6 @@
         "showTitle":    "Beauty And The Beast",
         "club":         "Limelight Productions, Dunfermline",
         "clubLink":     "http://www.limelightproductions.co",
-        "details":      "201010-beautyandthebeast.json",
         "role":         "Chorus / Dancer"
     },
     {
@@ -332,7 +291,6 @@
         "showTitle":    "Jack And The Beanstalk",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201012-beautyandthebeast.json",
         "role":         "Prime Minister"
     },
     {
@@ -340,7 +298,6 @@
         "showTitle":    "Chess",
         "club":         "Limelight Productions, Dunfermline",
         "clubLink":     "http://www.limelightproductions.co",
-        "details":      "201111-chess.json",
         "role":         "Chorus / Dancer"
     },
     {
@@ -348,7 +305,6 @@
         "showTitle":    "Babes In The Wood",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201112-babesinthewood.json",
         "role":         "Friar Tuck"
     },
     {
@@ -356,7 +312,6 @@
         "showTitle":    "The Sound of Music",
         "club":         "Limelight Productions, Dunfermline",
         "clubLink":     "http://www.limelightproductions.co",
-        "details":      "201210-thesoundofmusic.json",
         "role":         "Nazi Guard"
     },
     {
@@ -364,7 +319,6 @@
         "showTitle":    "Dick Whittington",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201112-babesinthewood.json",
         "role":         "Pub Landlord"
     },
     {
@@ -372,7 +326,6 @@
         "showTitle":    "Fame",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201112-babesinthewood.json",
         "role":         "Teacher"
     },
     {
@@ -380,7 +333,6 @@
         "showTitle":    "Into The Woods",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201112-babesinthewood.json",
         "role":         "Mysterious Man / Steward"
     },
     {
@@ -388,7 +340,6 @@
         "showTitle":    "Sleeping Beauty",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201112-babesinthewood.json",
         "role":         "Mysterious Man / Steward"
     },
     {
@@ -396,12 +347,6 @@
         "showTitle":    "Show Of Shows",
         "club":         "The Dunblane Centre",
         "clubLink":     "http://www.dunblanecentre.co.uk",
-        "details":      "201112-babesinthewood.json",
         "role":         "None"
     }
-    
-    
-    
-    
-    
 ]
