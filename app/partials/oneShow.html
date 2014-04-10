@@ -1,7 +1,31 @@
 <div class="container-fluid">
     <div class="row-fluid">
-		<h2>{{showName}}</h2>
 
+	<h2>{{showDateString}} - {{showName}}</h2>
+
+
+<!-- with images -->
+<div id="breadcrumb">
+    <ul class="crumbs">
+        <li class="first"><a href="/" style="z-index:9;"><span></span>The Potters</a></li>
+        <li><a href="/alan" style="z-index:8;">Alan</a></li>
+        <li><a href="/alan/shows" style="z-index:7;">Shows</a></li>
+        <li><a href="#" style="z-index:6;">{{showDateString}} - {{showName}}</a></li>
+    </ul>
+</div>
+
+
+<!-- graceful degrade
+<div id="breadcrumb2">
+    <ul class="crumbs2">
+        <li class="first"><a href="#">Blog Home</a></li>
+        <li><a href="#">Archives</a></li>
+        <li><a href="#">2011 Writing</a></li>
+        <li class="last"><a href="#">Tips for jQuery Development in HTML5</a></li>
+    </ul>
+</div>
+-->
+<br />
 		<!-- Show information table -->
 		<table class="oneShowInfoTable">
 		    <tr ng-repeat="row in showInfo.infoTable">
@@ -26,7 +50,9 @@
 					<div ng-repeat="photo in photoBlock.pictures"
 					     class="photoTile">
 
-						<a href="{{photo.large}}"><img src="{{photo.small}}"></a>
+						<a href="{{photo.large}}"
+						    data-lightbox="{{photo.large}}">
+						<img src="{{photo.small}}"></a>
 						<br/><span ng-bind-html="photo.title"></span>
 
 					</div>
@@ -40,3 +66,6 @@
 
 	</div>
 </div>
+
+
+

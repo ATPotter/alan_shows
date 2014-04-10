@@ -9,14 +9,14 @@ body
 }
 
 #container{
-    width:      1024px;
+    width:      900px;
     margin:     auto auto;
 }
 
 
 .logo a{
     display:        block;
-    width:          1024px;
+    width:          900px;
     height:         100px;
     overflow:       hidden;
     text-indent:    -9999px;   /* Hide the text */
@@ -26,7 +26,7 @@ body
 
 /* Page stuff now */
 .page{
-    width:  1024px;
+    width:  900px;
     padding:    5px 5px 25px 5px;
     background: white;
     margin: 0px 0px 0px 0px;
@@ -58,7 +58,7 @@ tr.even
  */
 .oneShowInfoTable
 {
-    font-size:          large;
+    font-size:          normal;
     border:             0;
     border-spacing:     0;
 }
@@ -86,8 +86,8 @@ tr.even
     border-radius:          5px;
     padding:                0.2cm;
     float:                  left;
-    width:                  300px;
-    height:                 300px;
+    width:                  270px;
+    height:                 270px;
     border:                 thin gray ridge;
     margin:                 0.1cm;
     text-align:             center;
@@ -111,4 +111,48 @@ tr.even
     font-family:        Bookman Old Style;
     font-size:          smaller;
     font-style:         italic;
+}
+
+
+/*
+ * http://www.hongkiat.com/blog/breadcrumb-menu-css3/
+ */
+
+.crumbs { display: block; }
+.crumbs li {  display: inline; }
+.crumbs li.first { padding-left: 8px; }
+.crumbs li a,
+.crumbs li a:link,
+.crumbs li a:visited {
+    color: #666;
+    display: block;
+    float: left;
+    font-size: normal;
+    margin-left: -13px;
+    padding: 7px 17px 11px 25px;
+    position: relative;
+    text-decoration: none;
+}
+.crumbs li a {
+    background-image: url('cssresources/bg-crumbs.png');
+    background-repeat: no-repeat;
+    background-position: 100% 0;
+    position: relative;
+}
+.crumbs li a:hover {
+    color: #333;
+    background-position: 100% -48px;
+    cursor: pointer;
+}
+.crumbs li a:active {
+    color: #333;
+    background-position: 100% -96px;
+}
+.crumbs li.first a span {
+    height: 29px;
+    width: 3px;
+    border-left: 1px solid #d9d9d9;
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }

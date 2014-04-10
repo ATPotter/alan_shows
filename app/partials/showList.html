@@ -23,13 +23,13 @@
 			  </th>
 			</tr>
 
-			<tr ng-repeat="show in shows | orderBy:orderProp:reverse" 
+			<tr ng-repeat="show in shows | orderBy:orderProp:reverse"
 				ng-class-odd="'odd'"
 				ng-class-even="'even'" >
 
 				<!-- Column showing calculated version of date -->
 				<td ng-bind="convertToDateString(show.dateComputer)"></td>
-				
+
 				<!-- Column showing show title -->
 				<td>
 				    <a ng-href="#/oneShow/{{show.dateComputer}}/{{show.showTitle}}">
@@ -37,21 +37,19 @@
 					</a>
 				</td>
 
-<!--				calculateShowLink( show.dateComputer, show.showTitle )">   -->
-				
 				<!-- Column to show club, with a link if available -->
 				<td>
 				  <div ng-switch="show.clubLink.length">
 					<div ng-switch-when="0">{{show.club}}</div>
 					<div ng-switch-default><a href="{{show.clubLink}}">{{show.club}}</a></div>
 				  </div>
-				</td>	
+				</td>
 
 				<!-- Column showing role in show -->
 				<td>{{show.role}}</td>
 			</tr>
 	    </table>
-	  
+
     </div>
-	
+
 </div>
